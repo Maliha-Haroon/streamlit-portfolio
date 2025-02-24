@@ -33,7 +33,7 @@ pg = st.navigation(
 
 
 # --- SHARED ON ALL PAGES ---
-# st.logo("assets/image2.png")
+st.logo("assets/image2.png")
 st.sidebar.markdown("Made with ❤️ by [Maliha](https://www.linkedin.com/in/maliha-haroon-08b037294/)")
 
 
